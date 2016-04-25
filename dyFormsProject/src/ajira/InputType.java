@@ -1,6 +1,6 @@
 package ajira;
 
-public interface InputMethod {
+public interface InputType {
 	
 	public Object getInput(String fieldType);
 	

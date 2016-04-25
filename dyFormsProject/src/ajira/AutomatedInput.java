@@ -3,7 +3,7 @@ package ajira;
 import org.json.simple.JSONObject;
 
 @SuppressWarnings("unchecked")
-public class AutomatedInput implements InputMethod {
+public class AutomatedInput implements InputType {
 	
 	int automatedInputChoice = 1;
 	

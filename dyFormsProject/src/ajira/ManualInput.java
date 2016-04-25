@@ -2,7 +2,7 @@ package ajira;
 
 import java.util.Scanner;
 
-public class ManualInput implements InputMethod {
+public class ManualInput implements InputType {
 
 	public static Scanner scanner;
 	
